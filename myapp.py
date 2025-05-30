@@ -1,3 +1,4 @@
+import fastapi
 
 vardas = input("Įveskite savo vardą")
 
